@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    background-image: url(../images/argyle.png);
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ingredients {
+    background-color: #232323;
+    width: fit-content;
+    padding: 25px;
+
+}
+
+.flavor-text {
+    font-style: italic;
+}
